@@ -1,4 +1,25 @@
-# GitHub Docs <!-- omit in toc -->
+--->
+Create JELDO MONEY App is a command-line tool that generates a fully configured starter JELDO MONEY (GraphQL) project with only essential dependencies. With Create JELDO MONEY App, you can start developing a client, server, or mobile app, or a universal application in no time.
+
+The projects generated with Create JELDO MONEY App are built of familiar technologies from the JavaScript ecosystem: TypeScript, Webpack, React, Express, and React Native. Depending on the type of the project you want to develop, the mentioned technologies are used in different combinations to provide particular setups for server, client, or mobile development.
+
+Create JELDO MONEY App relieves you from the pain of installing and configuring an JELDO MONEY project while making it easy to change project configurations if necessary. GitHub Pages
+
+<img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
+
+Hey JELDO1!
+
+Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
+
+Remember, it's self-paced so feel free to take a break! ☕️
+
+[![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/JELDO1/JELDO-MONEY.-/issues/1)
+
+---
+
+2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+
+ GitHub Docs <!-- omit in toc -->
 [![Build GitHub Docs On Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new/?repo=github)
 
 This repository contains the documentation website code and Markdown source files for [docs.github.com](https://docs.github.com).
